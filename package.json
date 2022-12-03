@@ -1,7 +1,7 @@
 {
-  "name": "guess-the-number",
+  "name": "guess-the-num",
   "version": "1.0.0",
-  "description": "A simple guessing number game to play on CLI",
+  "description": "A simple number guessing game to play on CLI.",
   "main": "index.js",
   "type": "module",
   "scripts": {
